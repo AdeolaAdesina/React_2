@@ -1,6 +1,6 @@
 # Advanced JSX
 
-## class vs className
+## class vs className 
 
 This lesson will cover more advanced JSX. You’ll learn some powerful tricks and some common errors to avoid.
 
